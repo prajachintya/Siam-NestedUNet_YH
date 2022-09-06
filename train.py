@@ -13,7 +13,7 @@ from tqdm import tqdm
 import random
 import numpy as np
 
-
+## cek git
 """
 Initialize Parser and define arguments
 """
